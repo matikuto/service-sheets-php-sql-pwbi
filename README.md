@@ -1,8 +1,6 @@
 # Service Sheets with fpdf and MySQL
 
-Hello everyone, on this repository I'll share the project I made the past month, 
-basically consist in a php file that stores the information from a html form into a MySQL data base, creates a PDF with the fpdf library
-, sends the resulting pdf to an asign email to finally connect the data base to a dashboard on PowerBI. 
+Hello everyone, on this repository, I'll share the project I made the past month, basically consist on a PHP file that stores the information from an HTML form into a MySQL database, creates a PDF with the fpdf library, sends the resulting pdf to an assigned email to finally connect the database to a dashboard on PowerBI.
 
 # Resources
 
